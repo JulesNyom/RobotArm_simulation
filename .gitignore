@@ -1,0 +1,26 @@
+# Ignorer l'environnement virtuel
+robotArm_simulation/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les fichiers de configuration de l'IDE/éditeur
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorer les fichiers de dépendances et de cache
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Ignorer les fichiers de cache de Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de cache système
+.DS_Store
